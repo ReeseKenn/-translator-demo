@@ -1,0 +1,2 @@
+<!--history.wxml-->
+<view class="container page-test" bindtap="showHello">hello {{name}}</view>

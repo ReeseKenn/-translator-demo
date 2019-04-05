@@ -6,6 +6,7 @@ Page({
   data: {
     motto: 'Hello World',
     userInfo: {},
+    name:'yanbaorui',
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },
